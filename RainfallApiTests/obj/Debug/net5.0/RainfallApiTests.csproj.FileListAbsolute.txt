@@ -1,0 +1,5 @@
+/Users/mohamed/RiderProjects/RainfallApiTests/RainfallApiTests/obj/Debug/net5.0/RainfallApiTests.csproj.AssemblyReference.cache
+/Users/mohamed/RiderProjects/RainfallApiTests/RainfallApiTests/obj/Debug/net5.0/RainfallApiTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/RiderProjects/RainfallApiTests/RainfallApiTests/obj/Debug/net5.0/RainfallApiTests.AssemblyInfoInputs.cache
+/Users/mohamed/RiderProjects/RainfallApiTests/RainfallApiTests/obj/Debug/net5.0/RainfallApiTests.AssemblyInfo.cs
+/Users/mohamed/RiderProjects/RainfallApiTests/RainfallApiTests/obj/Debug/net5.0/RainfallApiTests.csproj.CoreCompileInputs.cache
